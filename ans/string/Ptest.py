@@ -1,0 +1,1 @@
+for times in range(int(input())):print(f"Case #{times+1}: {len(set(input().split(' ')))}")
